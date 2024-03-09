@@ -8,4 +8,4 @@ Basically, these are an instagram clone website files, made using HTML, CSS and 
 
  * Now you are ready to go you just get a domain through netlify or github itself and host it on the internet.
 
-*NOTE- This tool is only made for educational purpose. You should not provide any harm to others and use it illegaly. We are not responsible for any illegall activity caused by others.
+*NOTE- These files is only made for educational purpose. You should not provide any harm to others and use it illegaly. We are not responsible for any illegall activity caused by others.
