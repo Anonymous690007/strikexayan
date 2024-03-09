@@ -1,4 +1,4 @@
-Basically, these is an instagram clone website files, made using HTML, CSS and JS alongwith PHP and MySql. In these files I have coded as much as I needed for making a phishing page. 
+Basically, these are an instagram clone website files, made using HTML, CSS and JS alongwith PHP and MySql. In these files I have coded as much as I needed for making a phishing page. 
 
 * You can clone this repository by the following steps from the terminal and use it:
 
