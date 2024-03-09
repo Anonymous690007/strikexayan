@@ -1,0 +1,128 @@
+#loginLogo
+{
+    padding-left: 45em;
+    padding-top: 8em;
+}
+#credentialsPUE
+{
+    padding-left: 43em;
+    padding-top: 1em;
+    position: relative;
+}
+#credentialsPass
+{
+    padding-left: 43em;
+    margin-top: 1em;
+    position: relative;
+    height: 20px;
+}
+
+.placeholder-box
+{
+    height: 40px;
+    width: 270px;
+}
+.loginButton {
+    padding-left: 42em; /*Adjusted margin for the login button*/
+    margin-bottom: 2px;
+    height: 20px;
+}
+
+/* Added styles for the login button */
+.loginButton a {
+            display: block;
+            width: 280px;
+            padding: 5px;
+            background-color: #4a97e8;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 3px;
+            
+}
+
+@media screen and (max-width: 600px) {
+    .login-box {
+        width: 90%;
+    }
+
+    .login-box input[type=text], .login-box input[type=password] {
+        width: 100%;
+    }
+
+    /* Add responsive styles for the login button if needed */
+}
+.choice
+{
+    padding-left: 42rem;
+    margin-top: 3em;
+    height: 20px;
+    font-size: 14px;
+}
+.facebookImage
+{
+    width: 2px;
+    height: 2px;
+    padding-left: 46em;
+    margin-top: 1.3em;
+}
+.facebookAsk a
+{
+    margin-left: 48.5em;
+    color:darkslateblue
+}
+.forgotPass a
+{
+    margin-left: 55.5em;
+    color: darkslateblue;
+    font-size: 14px;
+}
+.facebookAsk
+{
+    height: 2px;
+}
+.container
+{
+    height: 600px;
+    border: solid 1px grey;
+}
+
+.container .bothcred,.loginButton
+{
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.ex2{
+    margin-top: -125px;
+}
+.container {
+    border: 0.1px solid #ccc; /* Adjust the border properties as needed */
+    box-shadow: 0 0 5px 3px rgba(250, 167, 167, 0.2);
+    margin-top: -70px; /* Adjust the margin to move the border upwards */
+}
+.container{
+    height: 470px;
+    padding: 0.1px;
+    border: solid 1px grey;
+    left: -150px;
+    margin-top: -1px; /*Adjust the margin to move the border upwards*/
+}
+.bothApps 
+{
+    margin-left: 51.5em;
+    padding-top: 5px;
+}
+.bothApps .PlayStore
+{
+    padding-left: 12em;
+    margin-top: -2.7em;
+}
+
+
+
+
+
+
+
+
